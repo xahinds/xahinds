@@ -5,4 +5,5 @@
 - 👯 I’m looking to collaborate on projects related to software devlopment.
 - 💬 Ask me about leetcode, software development and many more.
 
+Here's my LeetCode profile:
 ![](https://leetcard.jacoblin.cool/xahinds2?theme=unicorn&extension=activity)
